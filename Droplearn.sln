@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Droplearn", "Droplearn\Droplearn.csproj", "{218B032E-869C-402E-825A-A72082656A98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bd", "..\..\source\repos\bd\bd\bd.csproj", "{60A8BABC-8270-4C4A-A177-2FB23B6B283A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218B032E-869C-402E-825A-A72082656A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218B032E-869C-402E-825A-A72082656A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218B032E-869C-402E-825A-A72082656A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218B032E-869C-402E-825A-A72082656A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A8BABC-8270-4C4A-A177-2FB23B6B283A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A8BABC-8270-4C4A-A177-2FB23B6B283A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A8BABC-8270-4C4A-A177-2FB23B6B283A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A8BABC-8270-4C4A-A177-2FB23B6B283A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E36B31-DD9C-4BC0-A5C9-9D70212F8619}
+	EndGlobalSection
+EndGlobal
